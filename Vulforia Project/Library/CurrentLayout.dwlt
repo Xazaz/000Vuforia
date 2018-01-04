@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 134
+  controlID: 140
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 47
+  controlID: 198
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -284,7 +284,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 48
+  controlID: 199
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 200
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -483,9 +483,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 92}
-    m_SelectedIDs: 32270000
-    m_LastClickedID: 10034
-    m_ExpandedIDs: 00000000da2500003e2600004a2600004c26000056260000de260000f62600001027000018270000282700003227000040270000b0270000b827000000ca9a3bffffff7f
+    m_SelectedIDs: 462c0000
+    m_LastClickedID: 11334
+    m_ExpandedIDs: 000000005e2b0000a42b0000ac2b0000ae2b0000b62b0000162c0000222c0000322c0000362c0000422c0000462c0000502c00008e2c0000942c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -513,7 +513,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000da2500003e2600004c26000056260000de260000f626000010270000182700002827000040270000b0270000b8270000
+    m_ExpandedIDs: 000000005e2b0000a42b0000ac2b0000ae2b0000b62b0000162c0000222c0000322c0000362c0000422c0000462c0000502c00008e2c0000942c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -540,22 +540,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ea250000a0300000543100007c3100002c2a0000aa29000024310000364b0000d839000060640000b26e0000e83900003a3b00009c850000a28500005a280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Vuforia
-      m_OriginalName: Vuforia
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10008
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
@@ -629,9 +629,9 @@ MonoBehaviour:
     height: 596
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 32fbffff
-    m_LastClickedID: -1230
-    m_ExpandedIDs: defbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 50f1ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
